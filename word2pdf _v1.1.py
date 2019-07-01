@@ -35,4 +35,4 @@ class pdfConverter:
      
 if __name__ == "__main__":
     converter = pdfConverter()
-    converter.wd_to_pdf(r'C:\Users\lenovo\Desktop\Aspirin_auto_report_2019-06-17')
+    converter.wd_to_pdf(r'C:\Users\lenovo\Desktop\yourFolder')
